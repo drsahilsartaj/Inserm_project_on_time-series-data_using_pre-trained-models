@@ -33,6 +33,8 @@ Still not “good” but better than others.
 Therefore, in future we can work on more data and do some fine-tuning.
 
 **Direct Links of the files:**<br>
+[Chronos-t5-large Model](./Chronos/chronos-t5-large%20model/chronos-t5.ipynb)
+
 [amazon/chronos-t5-large Model](./Chronos/chronos-t5-large%20model/chronos-t5.ipynb)
 
 [amazon/chronos-t5-base Model](./Chronos/chronos-t5-base%20model/chronos-t5.ipynb)
