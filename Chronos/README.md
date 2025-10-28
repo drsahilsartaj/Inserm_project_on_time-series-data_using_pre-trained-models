@@ -32,6 +32,6 @@ Still not “good” but better than others.
 
 Therefore, in future we can work on more data and do some fine-tuning.
 
-[amazon/chronos-t5-large Model](Chronos/chronos-t5-large model/chronos-t5.ipynb)
+[amazon/chronos-t5-large Model](./Chronos/chronos-t5-large model/chronos-t5.ipynb)
 
 
