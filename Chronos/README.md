@@ -32,6 +32,8 @@ Still not “good” but better than others.
 
 Therefore, in future we can work on more data and do some fine-tuning.
 
+By fine-tuning I mean, right now, Hugging Face lets us use the Chronos model, but in the future, they might let us **retrain or fine-tune** the model on our own custom data to make it even more accurate. In short: it would turn into a **fine-tuned model** (better performance for your specific use case).
+
 **Direct Links of the files:**<br>
 [amazon/chronos-t5-large Model](chronos-t5-large%20model/chronos-t5.ipynb)
 
@@ -40,4 +42,12 @@ Therefore, in future we can work on more data and do some fine-tuning.
 [amazon/chronos-t5-small Model](chronos-t5-small%20model/chronos-t5.ipynb)
 
 
-
+**Some good references:**<br>
+1. https://github.com/amazon-science/chronos-forecasting
+2. https://github.com/amazon-science/chronos-forecasting/blob/main/notebooks/chronos-2-quickstart.ipynb
+3. https://huggingface.co/amazon/chronos-t5-small
+4. https://www.youtube.com/watch?v=jyrOmIiI2Bc
+5. [Amazon Chronos Architecture Explanation](https://www.youtube.com/watch?v=_gFycwbfS0g)
+6. [Research Paper: Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
+7. [Seminar Video where the creator explain about **Chronos**](https://www.youtube.com/watch?v=6eDVkNBxURo)
+8. [Extra: Forecast Anything with Transformers with Chronos or PatchTST](https://www.youtube.com/watch?v=P5T-ytvbj50)
